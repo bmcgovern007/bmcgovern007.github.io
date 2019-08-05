@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Welcome to my food blog!"
 date: 2019-08-04
 ---
 
