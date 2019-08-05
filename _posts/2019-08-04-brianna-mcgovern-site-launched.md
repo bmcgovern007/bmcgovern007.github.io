@@ -8,5 +8,5 @@ Before I ever wanted a personal website, I wanted to make a food blog made by a 
 
 So, welcome to my food blog -- to hearby be called **Kitchen Hacks for College Hackers**. I hope you enjoy it. 
 
-Lastly, a big thanks to (http://jmcglone.com/guides/github-pages/ "Jonathon McGlone and his step-by-step guide to creating a GitHub pages website using Jekyll"). You really can find anything on the Internet.
+Lastly, a big thanks to [Jonathon McGlone's step-by-step guide to creating a GitHub pages website using Jekyll](http://jmcglone.com/guides/github-pages/). You really can find anything on the Internet.
 
