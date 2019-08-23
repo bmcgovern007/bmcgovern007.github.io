@@ -7,8 +7,7 @@ body {
     width: 100px;
     height: 100px;
     position: relative;
-    align-content: right;
-    justify-content: right;
+    left-align: 50px;
     overflow: hidden;
     border-radius: 50%;
 }
