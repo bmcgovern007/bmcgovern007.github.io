@@ -3,8 +3,16 @@ body {
     width: 70%;
 }
 
+.img-crop {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
 img.profile {
-  border-radius: 50%;
+    display: inline;
 }
 
 nav ul, footer ul {
