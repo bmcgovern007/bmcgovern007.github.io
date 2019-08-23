@@ -13,8 +13,8 @@ body {
 
 img.profile {
     display: inline;
-    margin: 0 auto;
-    height: 100%;
+    margin: auto;
+    height: 110%;
     width: auto;
 }
 
