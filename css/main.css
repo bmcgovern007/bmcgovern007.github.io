@@ -5,7 +5,7 @@ body {
 
 .bg-img {
   /* The image used */
-  background-image: "profile.jpg";
+  background-image: url("profile.jpg");
   min-height: 380px;
   background-position: center;
   background-repeat: no-repeat;
