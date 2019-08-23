@@ -3,6 +3,16 @@ body {
     width: 70%;
 }
 
+.bg-img {
+  /* The image used */
+  background-image: "profile.jpg";
+  min-height: 380px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .img-crop {
     width: 100px;
     height: 100px;
