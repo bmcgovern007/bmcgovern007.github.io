@@ -7,14 +7,13 @@ body {
     width: 100px;
     height: 100px;
     position: relative;
+    align-content: center;
     overflow: hidden;
     border-radius: 50%;
 }
 
 img.profile {
     position: relative;
-    right: 800px;
-    display: inline;
     margin: auto;
     height: 110%;
     width: auto;
