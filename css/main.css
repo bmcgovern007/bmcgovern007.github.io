@@ -12,6 +12,8 @@ body {
 }
 
 img.profile {
+    position: relative;
+    right: 20%;
     display: inline;
     margin: auto;
     height: 110%;
