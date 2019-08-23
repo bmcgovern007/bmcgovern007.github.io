@@ -13,6 +13,8 @@ body {
 
 img.profile {
     display: inline;
+    height: 100%;
+    width: auto;
 }
 
 nav ul, footer ul {
