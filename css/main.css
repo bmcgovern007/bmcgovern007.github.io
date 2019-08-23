@@ -14,7 +14,6 @@ body {
 img.profile {
     display: inline;
     margin: 0 auto;
-    margin-right: -25%;
     height: 100%;
     width: auto;
 }
