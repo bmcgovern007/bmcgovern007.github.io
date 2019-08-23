@@ -3,15 +3,14 @@ body {
     width: 70%;
 }
 
-.bg-img {
-  /* The image used */
+/*.bg-img {
   background-image: url("profile.jpg");
   min-height: 380px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-}
+}*/
 
 .img-crop {
     float: left;
@@ -29,6 +28,7 @@ img.profile {
     margin: auto;*/
     height: 100%;
     width: auto;
+    right: 25px;
 }
 
 nav ul, footer ul {
