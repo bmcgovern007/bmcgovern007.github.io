@@ -23,12 +23,9 @@ body {
 }
 
 img.profile {
-    
-    /*position: relative;
-    margin: auto;*/
-    height: 100%;
-    width: auto;
-    right: 25px;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
 }
 
 nav ul, footer ul {
