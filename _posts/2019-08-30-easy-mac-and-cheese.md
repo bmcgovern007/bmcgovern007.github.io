@@ -1,7 +1,7 @@
 
 ## 3+ Ingredient Mac N Cheese 
 
-Inspired by [this recipe by Alvin Zhou on Tasty,] (https://tasty.co/recipe/3-ingredient-mac-cheese) you can make this recipe 
+Inspired by [this recipe by Alvin Zhou on Tasty,](https://tasty.co/recipe/3-ingredient-mac-cheese) you can make this recipe 
 simply or jazz it up easily by throwing some extra cheese and breadcrumbs on top and throwing it in the oven to get extra 
 gooey and delicious!
 
